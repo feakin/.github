@@ -2,9 +2,11 @@
 
 🙋‍♀️ create and share knowledge with diagrams, and 🌈 building ecosystem 
 
-- Feakin Online Diagram: with Typescript [packages](https://github.com/feakin/feakin/tree/master/packages)
-- Feakin DSL with parser, lsp and others...: with Rust [crates](https://github.com/feakin/feakin/tree/master/crates)
+- Feakin architecture/software DSL with parser, include lsp and others... [https://github.com/feakin/fklang](https://github.com/feakin/fklang)
+- Feakin Online Diagram: with Typescript [Feakin Web](https://github.com/feakin/feakin-web)
 - Feakin Intellij plugin with DSL: with Kotlin [https://github.com/feakin/intellij-feakin](https://github.com/feakin/intellij-feakin)
+
+Document: https://github.com/feakin/book
 
 Also here is our blogs: [https://github.com/feakin/blog](https://github.com/feakin/blog)
 
